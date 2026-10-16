@@ -1,0 +1,31 @@
+location_name,country_iso2,continent,latitude,longitude
+London,GB,Europe,51.51,-0.13
+Madrid,ES,Europe,40.42,-3.70
+Berlin,DE,Europe,52.52,13.41
+Moscow,RU,Europe,55.76,37.62
+Reykjavik,IS,Europe,64.15,-21.94
+Cairo,EG,Africa,30.04,31.24
+Lagos,NG,Africa,6.52,3.38
+Nairobi,KE,Africa,-1.29,36.82
+Cape Town,ZA,Africa,-33.92,18.42
+Tokyo,JP,Asia,35.68,139.69
+Beijing,CN,Asia,39.90,116.41
+Delhi,IN,Asia,28.61,77.21
+Singapore,SG,Asia,1.35,103.82
+Dubai,AE,Asia,25.20,55.27
+Ulaanbaatar,MN,Asia,47.89,106.91
+Jakarta,ID,Asia,-6.21,106.85
+New York,US,North America,40.71,-74.01
+Mexico City,MX,North America,19.43,-99.13
+Phoenix,US,North America,33.45,-112.07
+Vancouver,CA,North America,49.28,-123.12
+Sao Paulo,BR,South America,-23.55,-46.63
+Manaus,BR,South America,-3.12,-60.02
+Buenos Aires,AR,South America,-34.60,-58.38
+Sydney,AU,Oceania,-33.87,151.21
+Auckland,NZ,Oceania,-36.85,174.76
+Utqiagvik,US,North America,71.29,-156.79
+Alert,CA,North America,82.50,-62.35
+Longyearbyen,SJ,Europe,78.22,15.63
+McMurdo Station,AQ,Antarctica,-77.85,166.67
+South Pole,AQ,Antarctica,-90.00,0.00
